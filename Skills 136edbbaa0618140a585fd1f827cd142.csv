@@ -1,0 +1,39 @@
+﻿Name,Domain,Category,Language,Libraries/Framework,Tools,Skill
+DSA,Programming,Theory,,,,
+R,Programming,Language,,,,
+Java,Programming,Language,,,,
+Python,Programming,Language,,,,
+Bash,Fundamental,Language,,,,
+Cloud : AWS,Fundamental,Tools,,,,
+MySQL,Fundamental,Databases,,,,
+MongoDB,Fundamental,Databases,,,,Data Visualization
+Computer Networking,Fundamental,Theory,,,,
+Docker,Devops,Tools,,,,
+Kubernetes,Devops,Tools,,,,
+Frontend,Web,,,,,
+Backend,Web,,,,,
+Frontend Development,Web,Skill,"CSS, HTML, javascript","React.js, Tailwind",,
+Backend Development,Web,Skill,javascript,"Express.js, Next.js",,
+Databases & SQL,Fundamental,Skill,SQL,,"MYSQL, MongoDB",
+Devops,Devops,Skill,,,"Docker, Jenkins, Kubernetes",
+Cloud,Cloud,Skill,,,AWS,
+Data Analysis,Data,Skill,Python,"Numpy, Pandas",Excel,
+Data Visualization,Data,Skill,Python,"Matplotlib, plotly, seaborn",Tableau,
+Machine Learning,Data,Skill,Python,Scikit-learn,,
+Deep Learning,Data,Skill,Python,"Keras, Pytorch, Tensorflow",,
+Keras,Data,Libraries,Python,,,Deep Learning
+Tensorflow,Data,Libraries,Python,,,Deep Learning
+Pytorch,Data,Libraries,Python,,,Deep Learning
+Skit-learn,Data,Libraries,Python,,,Machine Learning
+Dash,Data,Libraries,Python,,,Data Visualization
+plotly,Data,Libraries,Python,,,Data Visualization
+Seaborn,Data,Libraries,Python,,,Data Visualization
+Matplotlib,Data,Libraries,Python,,,Data Visualization
+Tableau,Data,Tools,,,,Data Visualization
+Excel,Data,Tools,,,,Data Analysis
+Pandas,Data,Libraries,Python,,,Data Analysis
+dplyr,Data,Libraries,R,,,Data Analysis
+Numpy,Data,Libraries,Python,,,Data Analysis
+ggplot2,Data,Libraries,R,,,Data Visualization
+tidyr,Data,Libraries,R,,,Data Analysis
+Javascript,Web,Language,,,,
